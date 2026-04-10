@@ -55,7 +55,7 @@
     "sinon": "^9.2.4",
     "nock": "^13.4.0",
     "fs-extra": "^11.2.0",
-    "esbuild": "^0.19.11"
+    "esbuild": "^0.25.0"
   },
   "dependencies": {
     "@aws-cdk/asset-node-proxy-agent-v6": "^2.0.1",
